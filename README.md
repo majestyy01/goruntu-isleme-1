@@ -11,5 +11,9 @@
  NOT: Bu kodların hiçbiri public olarak takım adına paylaşılmamıştır.Kendimi geliştirmek için yazmış olduğum kodlara takımı eklemek istedim.
 
  İnstagram @woxicdev
+
+ 
  Twitter TasvanTali
+
+
  Codepen Genc_Yazilimci58
